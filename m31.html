@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title> m31 </title>
+    </head>
+    <body bgcolor=white>
+          <font face =" Tahoma" size="7" color= blue> Đáp án </font><br>
+
+        <a> <h1>Giúp học sinh nắm vững kiến thức toán, phát triển tư duy logic và yêu thích môn Toán.</h1> </a>
+    </body>
+
+</html>
